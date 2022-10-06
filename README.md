@@ -1,2 +1,2 @@
 # force-inference
-Code for the project with the title "Inference of inter-particle forces from stochastic trajectories".
+Application to find parameters of inter-particle forces from stochastic trajectories using Bayesian inference.
