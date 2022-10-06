@@ -11,7 +11,7 @@ Given only the data on the trajectory, the parameters of forces/potentials were 
 The parameters converged to the correct values in all cases using less than half of the available data, even with an uninformative prior, thereby providing the advantage of saving computational time and storage space. 
 The method, however, requires increasingly more computational resources once the number of parameter increases and when the intervals of possible values for the parameters are hard to be identified effectively.  
 
-More details regarding the methods and results can be found in the [presentation slides](https://github.com/cristina-v-melnic/force-inference/blob/main/Force_Inference_talk.pdf).
+More details regarding the methods and results can be found in the [jupyter notebook](https://github.com/cristina-v-melnic/force-inference/blob/main/force-inference.ipynb) and [presentation slides](https://github.com/cristina-v-melnic/force-inference/blob/main/Force_Inference_talk.pdf).
 
 ## Credits
 This project was part of the coursework of the MSc. Computational Sciences program at FU Berlin in 2020/21. It was initiated and supervised by Dr Mohsen Sadeghi and realised by me as an intern in the "Artificial Intelligence for the Sciences" group, led by Prof. Frank Noé.
