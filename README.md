@@ -1,7 +1,7 @@
 # force-inference
 Application to find parameters of inter-particle forces from stochastic trajectories using Bayesian inference.
 
-## About the project
+## About
 #### Introduction
 Classical description of the constituents of matter using Newton's equations for every atom in the system tends to be intractable because of the high number of atoms. Hence, a small subset of them are characterised using Newtonian dynamics in so-called effective force fields with added stochastic components (Langevin equations).
 The goal of this project was to determine these effective forces acting on one Newtonian particle given their trajectories that resemble Brownian motion in the limit of strong friction.
